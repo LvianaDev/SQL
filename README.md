@@ -2,7 +2,9 @@
 
 - Cursor:
 Um cursor servirá à necessidade de iterar linha a linha em cima de uma query já executada
-Obs: Normalmente utilizado em procedures. Nas versões mais atuais do SQL é visto como uma má prática em alguns cenários, pois pode inteferir diretamente na perfomance da aplicação.
+Obs: Normalmente utilizado em procedures. 
+
+Nas versões mais atuais do SQL é visto como uma má prática em alguns cenários, pois pode inteferir diretamente na perfomance da aplicação.
 
 O que foi utilizado: 
 CURSOR FAST_FORWARD FOR -- Um cursor que só vai para frente!
