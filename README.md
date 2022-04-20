@@ -11,5 +11,5 @@ CURSOR FAST_FORWARD FOR -- Um cursor que só vai para frente!
 Às vezes facilitamos um “batch” com o uso de tabelas temporárias, seja física ou em memória, veremos as diferenças e como utilizá-las
 Obs: Ao criar uma tabela temporária não esquecer de adicionar um # a frente do nome. Exemplo:  #TempUm
 
-- XML
+- XML:
 É possível transformer uma query em uma representação XML e vice-versa.
